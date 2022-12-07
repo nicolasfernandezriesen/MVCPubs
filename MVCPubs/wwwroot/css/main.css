@@ -1,0 +1,30 @@
+﻿* {
+    box-sizing: border-box;
+    margin: 0px;
+    padding: 0px;
+}
+
+#NavBar {
+    height:20px;
+    width: 100%;
+    text-align: end;
+    background-color: aquamarine;
+    color: lightpink;
+}
+
+#Content {
+    position: absolute;
+    height: 99%;
+    width: 99%;
+    text-align:center;
+    background-color: lightpink;
+}
+
+#Footer {
+    position: absolute;
+    bottom:0;
+    height: 20px;
+    width: 100%;
+    text-align: center;
+    background-color: aquamarine;
+}
